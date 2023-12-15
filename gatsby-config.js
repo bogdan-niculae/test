@@ -28,7 +28,7 @@ module.exports = {
          * Example : 'demo.wp-api.org' or 'www.example-site.com'
          */
         // baseUrl: `allbright.digital-extend.com`,
-          url: `http://allbright.digital-extend.com`,
+          url: `allbright.digital-extend.com`,
         // The protocol. This can be http or https.
           // protocol: `https`,
         // Indicates whether the site is hosted on wordpress.com.
