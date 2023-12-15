@@ -20,7 +20,7 @@ module.exports = {
       options: {
         url:
           process.env.WPGRAPHQL_URL ||
-          `172.191.128.29:22/graphql`,
+          `172.191.128.29/graphql`,
       },
     },
     `gatsby-plugin-image`,
